@@ -1,1 +1,5 @@
-
+[1b1.Delete_Arraylist o/p]->(https://github.com/shivaleela809/Advanced_Java/blob/main/1b.ArrayList_Interface/Delete_Arraylist.jpeg)
+[1b2.ExtractArraylist o/p]->(https://github.com/shivaleela809/Advanced_Java/blob/main/1b.ArrayList_Interface/Extract_Arraylist.jpeg)
+[1b3.RemoveArraylist o/p]->(https://github.com/shivaleela809/Advanced_Java/blob/main/1b.ArrayList_Interface/Remove_Arraylist.jpeg)
+[1b3.SearchArraylist o/p]->(https://github.com/shivaleela809/Advanced_Java/blob/main/1b.ArrayList_Interface/Search_Arraylist.jpeg)
+[1b4.SortArraylist o/p]->(https://github.com/shivaleela809/Advanced_Java/blob/main/1b.ArrayList_Interface/Sort_Arraylist.jpeg)
