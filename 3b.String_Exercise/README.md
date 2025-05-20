@@ -1,1 +1,5 @@
-
+[3b1.Checking_String]->(https://github.com/shivaleela809/Advanced_Java/blob/main/3b.String_Exercise/Checking_String.jpeg)
+[3b2.Count_String]->(https://github.com/shivaleela809/Advanced_Java/blob/main/3b.String_Exercise/Count_String.jpg)
+[3b3.Eliminate_String]->(https://github.com/shivaleela809/Advanced_Java/blob/main/3b.String_Exercise/Eliminate_String.jpg)
+[3b4.ReverseChecking_String]->(https://github.com/shivaleela809/Advanced_Java/blob/main/3b.String_Exercise/ReverseChecking_String.jpg)
+[3b5.ReverseChecking_String]->(https://github.com/shivaleela809/Advanced_Java/blob/main/3b.String_Exercise/Reverse_String.jpg)
